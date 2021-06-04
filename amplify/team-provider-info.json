@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-realpad-dev-93306-authRole",
+            "UnauthRoleArn": "arn:aws:iam::536997480987:role/amplify-realpad-dev-93306-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::536997480987:role/amplify-realpad-dev-93306-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-realpad-dev-93306-deployment",
+            "UnauthRoleName": "amplify-realpad-dev-93306-unauthRole",
+            "StackName": "amplify-realpad-dev-93306",
+            "StackId": "arn:aws:cloudformation:us-east-2:536997480987:stack/amplify-realpad-dev-93306/74c59910-c357-11eb-be69-020951ba3322",
+            "AmplifyAppId": "d2ay7jyphiphy0"
+        },
+        "categories": {
+            "auth": {
+                "realpad88e3a47e": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2ay7jyphiphy0",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
